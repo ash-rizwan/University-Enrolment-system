@@ -1,0 +1,1 @@
+The code is my submission to my Software Development final assignment. It is a CLI and GUI implementation of a University enrolment system. The python code is very well written and avoids any potential errors showcasing my ability in python, attention to requirements and usability of the final product.
